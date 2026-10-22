@@ -1,4 +1,4 @@
-# Smart Street Camera — Network Architecture
+# Safe Space Camera — Network Architecture
 
 A resilient and secure network architecture designed for a **Smart Street Camera System** that detects road accidents in real time and sends alerts to users and responders.
 
